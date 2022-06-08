@@ -1,2 +1,3 @@
 # HIT-Lab1-1190501614
-HIT-Lab1-Hitcg created by GitHub Classroom
+
+2021哈工大软件构造实验1
